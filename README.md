@@ -3,7 +3,7 @@
 ### Introducing Literary Haven- a project offering free seamless eBook reading across devices. Dive into the world of literature without limitations, as Literary Haven guarantees optimal readability and a captivating experience on every device.
 
 ## Table of Contents
-[Commands](#commands)
+* [Commands](#commands)
 
 
 ## Commands
