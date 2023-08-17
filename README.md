@@ -1,4 +1,3 @@
-# Summer-Project2
+# Literary Haven: A Free eBook Reading Platform
 
-## About
-![Home]()
+
