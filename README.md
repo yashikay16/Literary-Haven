@@ -6,12 +6,12 @@
 * [Commands](#commands)
 * [Usage](#usage)
 * [Features](#features)
-* [Technology Used](#technologyused)
+* [Built With](#builtwith)
 
 
 # Commands
-## To run Frontend - ### npm start
-## To run Backend - ### npm run dev
+## To run Frontend - npm start
+## To run Backend - npm run dev
 
 # Usage
 
@@ -68,7 +68,7 @@
 ### Users can easily update or delete their profiles by providing the necessary information.
 ![Update User](https://github.com/yashikay16/Literary-Haven/blob/master/Screenshots/UpdateUser.png?raw=true)
 
-# Technology Used
+# Built With
 * HTML 5
 * CSS
 * BOOTSTRAP 5
