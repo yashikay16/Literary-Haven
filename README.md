@@ -40,16 +40,16 @@
 ### After successfully creating and logging into your account, you can now add books, which will be displayed in the 'Our Collection' section.
 ![Add Books](https://github.com/yashikay16/Literary-Haven/blob/master/Screenshots/AddBooks.png?raw=true)
 
- * ## Before Adding a Book
-  ![Before Adding a Book](https://github.com/yashikay16/Literary-Haven/blob/master/Screenshots/Adding/Before%20Adding.png?raw=true)
+  * ## Before Adding a Book
+   ![Before Adding a Book](https://github.com/yashikay16/Literary-Haven/blob/master/Screenshots/Adding/Before%20Adding.png?raw=true)
 
- * ## Adding
-  ### Providing the necessary information.
+  * ## Adding
+   ### Providing the necessary information.
   ![Adding Books](https://github.com/yashikay16/Literary-Haven/blob/master/Screenshots/Adding/Adding%20Book.png?raw=true)
 
- * ## After Adding
-  ### The book has been successfully added.
-  ![After Adding the book](https://github.com/yashikay16/Literary-Haven/blob/master/Screenshots/Adding/After%20Adding.png?raw=true)
+  * ## After Adding
+   ### The book has been successfully added.
+   ![After Adding the book](https://github.com/yashikay16/Literary-Haven/blob/master/Screenshots/Adding/After%20Adding.png?raw=true)
 
 
 ## Filters
