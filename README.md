@@ -55,12 +55,18 @@
 ### You can use the search bar to find books by their title, author, or genre.
 
 * ## Search By Name
-  ![Search By Name]()
+  ![Search By Name](https://github.com/yashikay16/Literary-Haven/blob/master/Screenshots/Filters/Name.png?raw=true)
 
-* ## Search By Name
-  ![Search By Name]()
-  * ## Search By Name
-  ![Search By Name]()
+* ## Search By Author
+  ![Search By Author](https://github.com/yashikay16/Literary-Haven/blob/master/Screenshots/Filters/Author.png?raw=true)
+
+* ## Search By Genre
+  ![Search By Genre](https://github.com/yashikay16/Literary-Haven/blob/master/Screenshots/Filters/Genre.png?raw=true)
+
+## Update User
+### Users can easily update or delete their profiles by providing the necessary information.
+![Update User](https://github.com/yashikay16/Literary-Haven/blob/master/Screenshots/UpdateUser.png?raw=true)
+  
 
 
 
