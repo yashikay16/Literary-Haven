@@ -6,7 +6,7 @@
 * [Commands](#commands)
 * [Usage](#usage)
 * [Features](#features)
-* [Built With](#builtwith)
+* [Built With](#built)
 
 
 # Commands
