@@ -73,9 +73,9 @@
 * CSS
 * MDB
 * REACT JS
-* EXPRESS
+* EXPRESS JS
 * NODE JS
-* MONGO DB
+* MONGODB
   
 
 
