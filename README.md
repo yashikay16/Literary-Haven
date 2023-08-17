@@ -71,7 +71,6 @@
 # Built With
 * HTML 5
 * CSS
-* BOOTSTRAP 5
 * MDB
 * REACT JS
 * EXPRESS
