@@ -1,0 +1,8 @@
+/* styles.css or your custom CSS file */
+.card-body-flex {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  height: 100%;
+}
+
