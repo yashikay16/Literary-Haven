@@ -5,6 +5,7 @@
 ## Table of Contents
 * [Commands](#commands)
 * [Usage](#usage)
+* [Features](#features)
 
 
 ## Commands
@@ -18,19 +19,37 @@
 ### Upon clicking the 'Get Started' button or the 'Read' button (located in the 'Best Collection' section), you will be directed to the 'Our Collection' page.
 ![Home](https://github.com/yashikay16/Literary-Haven/blob/master/Screenshots/Home.png?raw=true)
 
-# Our Collection
+## Our Collection
 ### You can read the book by clicking the 'Read' button.
 ### On clicking the 'Like' button, a like is added that persists even after refreshing the page.
 ![Our Collection before login](https://github.com/yashikay16/Literary-Haven/blob/master/Screenshots/Our%20Collection%20before%20login.png?raw=true)
 
-# Sign Up 
+## Sign Up 
 ### This project also includes a SignUp page where you can create an account and upload a file from your system, which will be displayed as your profile picture.
 ### The purpose of this page is to allow only users who have created an account to add books.
 ![Sign Up](https://github.com/yashikay16/Literary-Haven/blob/master/Screenshots/SignUp.png?raw=true)
 
-# Login 
+## Login 
 ### After successfully creating your account, you will be directed to the login page.
 ![Log In](https://github.com/yashikay16/Literary-Haven/blob/master/Screenshots/Login.png?raw=true)
+
+# Features 
+
+## Add Books
+### After successfully creating and logging into your account, you can now add books, which will be displayed in the 'Our Collection' section.
+![Add Books](https://github.com/yashikay16/Literary-Haven/blob/master/Screenshots/AddBooks.png?raw=true)
+
+* Before Adding a Book
+![Before Adding a Book](https://github.com/yashikay16/Literary-Haven/blob/master/Screenshots/Adding/Before%20Adding.png?raw=true)
+
+* Adding 
+### Providing the necessary information.
+![Adding Books](https://github.com/yashikay16/Literary-Haven/blob/master/Screenshots/Adding/Adding%20Book.png?raw=true)
+
+*After Adding 
+### The book has been successfully added.
+![After Adding the book](https://github.com/yashikay16/Literary-Haven/blob/master/Screenshots/Adding/After%20Adding.png?raw=true)
+
 
 
 
